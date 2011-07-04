@@ -27,13 +27,13 @@ Al finalizar el documento, deberá ser capaz de:
 Para comenzar es necesario contar con los siguientes conocimientos mínimos:
 
 
-* HTML/XHTML:
+* __HTML/XHTML__:
 
 	* Conocer la estructura básica de un documento HTML/XHTML;
 	
 	* Saber reconocer las etiquetas básicas.
 	
-* CSS:
+* __CSS__:
 
 	* Reconocer la manera de incorporar estilos dentro de un documento;
 	
@@ -42,17 +42,17 @@ Para comenzar es necesario contar con los siguientes conocimientos mínimos:
 	* Entender el funcionamiento de maquetaciones simples con elementos flotantes.
 	
 	
-* JavaScript:
+* __JavaScript__:
 
 	* Reconocer la manera de incorporar código JavaScript en un documento.
 	
-* PHP:
+* __PHP__:
 
 	* Reconocer las etiquetas de apertura y cierre de código PHP;
 	
 	* Entender las funciones básicas de flujos de control (`if`, `if else`, `else`).
 	
-* Joomla!:
+* __Joomla!__:
 
 	* Conocimientos básicos del CMS: administración de contenidos, instalación de extensiones, manejo de componentes y módulos.
 
