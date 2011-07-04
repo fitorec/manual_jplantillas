@@ -68,7 +68,7 @@ Para trabajar con los contenidos de la guía, son necesarias las siguientes herr
 
 	* [Notepad++](http://notepad-plus-plus.org/) - Windows;
 	
-	* Gedit/Kate - Linux;
+	* [Gedit](http://projects.gnome.org/gedit/)/[Kate](http://kate-editor.org/) - Linux;
 	
 	* [TextMate](http://macromates.com/) - Mac OS X;
 	
