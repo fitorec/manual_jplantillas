@@ -16,7 +16,7 @@ Antes de comenzar, puede que se pregunte ¿qué es una plantilla y para qué sir
 * Y funcionalidades especificadas que dependerán de cada plantilla.
 
 
-En particular, Joomla posee un excelente sistema de plantillas que permite adaptar cualquier sitio a los requerimientos deseados. Además, a medida que el *CMS* (Sistema de gestión de contenidos) evoluciona, el mismo va incorporando nuevas características que permiten mejorar la experiencia al momento de crear una plantilla. Actualmente, la última versión es la 1.6, la cual incorpora:
+En particular, **Joomla** posee un excelente sistema de plantillas que permite adaptar cualquier sitio a los requerimientos deseados. Además, a medida que el *CMS* (Sistema de gestión de contenidos) evoluciona, el mismo va incorporando nuevas características que permiten mejorar la experiencia al momento de crear una plantilla. Actualmente, la última versión es la 1.6, la cual incorpora:
 
 
 * Tres nuevos *templates* listos para utilizar y adaptar a las necesidades del sitio;
